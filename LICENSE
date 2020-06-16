@@ -1,201 +1,53 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-   1. Definitions.
-
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
-
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
-
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
-
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
-
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
-
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+                                     Apache License
+                               Version 2.0, January 2004
+                            http://www.apache.org/licenses/
+    
+    
+    KULLANMAK, YENİDEN ÜRETMEK VE DAĞITMAK İÇİN HÜKÜMLER VE KOŞULLAR
+    
+    1. Tanımlar.
+    “Lisans” işbu belgenin Bölüm 1′den Bölüm 9′a kadar olan kısmında tanımlandığı gibi, kullanım, yeniden üretim ve dağıtım için konulan hüküm ve koşullar anlamına gelir.
+    “Lisans veren”, telif hakkı sahibinin kendisi veya lisansı veren telif hakkı sahibinin yetkilendirdiği kişidir/kuruluştur.
+    “Tüzel Kişi”, temsilci kuruluş ve onu denetleyen, onun tarafından denetlenen veya onunla ortak denetimde bulunan diğer tüm kuruluşların oluşturduğu birlik anlamına gelir. Bu tanımlama açısından denetlemek (i) doğrudan veya dolaylı olarak, sözleşme veya başka bir yolla böyle bir kuruluşun yönlendirilmesi veya yönetilmesini sağlayan güç, (ii) tedavüldeki hisse senetlerinin yüzde elli (%50) veya daha fazlasına sahip olma, veya (iii) böyle bir kuruluştan yararlanan hak sahibi anlamına gelir.
+    “Siz” (veya “Sizin”), işbu lisansla verilen izinleri icra eden kişi veya tüzel kişilikleri tanımlar.
+    “Kaynak” biçimi, yazılımın kaynak kodu, belgelendirme kaynağı ve kurulum dosyaları dahil ve bununla kısıtlı olmaksızın düzenlemelerin yapılması için tercih edilen biçimdir.
+    “Nesne” biçimi; derlenen nesne kodu, oluşturulan belgelendirme ve diğer medya türlerine dönüştürme de dahil ve bununla kıstlı olmaksızın, bir kaynak biçiminin makineyle dönüştürülmesi veya çevrilmesi sonucu ortaya çıkan her türlü biçim anlamına gelir.
+    “Çalışma”, Kaynak veya Nesne biçiminde, çalışmaya dahil edilen veya iliştirilen telif hakkı bildiriminde belirtildiği şekilde, lisansla erişilebilir kılınmış, bir yazarlık çalışması anlamındadır.
+    “Türemiş Çalışmalar”, Kaynak veya Nesne biçiminde, çalışmaya dayanan (veya ondan türetilmiş) ve denetimsel incelemeler, açıklamalar, ayrıntılandırmalar ve diğer değişikliklerin bir bütün olarak bir yazarlık çalışmasını yansıttığı her türlü çalışma anlamındadır. İşbu lisansın amacı doğrultusunda türemiş çalışmalar, çalışma ve bununla ilgili türemiş çalışmalardan ayrılabilir veya ancak bunların arayüzlerine bağlanan (veya ada göre bağlanan) çalışmaları içermez.
+    “Katkı”, çalışmanın özgün sürümü ve çalışma ya da bununla ilgili türemiş çalışmalara yapılan her türlü değişiklik veya ekleme dahil, telif hakkı sahibi veya onun adına sunma yetkisine sahip kişi veya tüzel kişi tarafından kasten çalışmaya eklenmesi için lisans verenin onayına sunulan her tür yazarlık çalışması anlamına gelir. Bu tanımın amacı doğrultusunda, “onayına sunmak”; elektronik posta listeleri, kaynak kod denetim sistemleri ile çalışmayı ele almak ve geliştirmek amacıyla lisans veren tarafından veya onun adına yürütülen iş takip sistemleri dahil ve bununla kısıtlı olmaksızın, telif hakkı sahibi tarafından “Katkı değildir” şeklinde bariz olarak işaretlenmiş veya yazılı olarak tanımlanmış ileti hariç, lisans verene veya temsilcilerine gönderilen her türlü elektronik, sözlü veya yazılı iletiyi kasteder.
+    “Katkı sağlayan”, bir lisans veren tarafından adına bir katkının alındığı ve sonradan çalışma içerisine dahil edildiği Lisans Veren ve her türlü kişi veya tüzel kişilik anlamına gelir.
+    2. Telif Hakkı Lisansının Verilmesi. İşbu lisansın hüküm ve koşullarına bağlı olarak, her bir katkı sağlayıcı, burada size çalışmayı ve kaynak veya nesne kodu biçimindeki türemiş çalışmaları yeniden üretmeniz, türemiş çalışmalarını hazırlamanız, kamu önünde göstermeniz, kamuya açık olarak icra etmeniz, altlisanslamanız ve dağıtmanız için gereken sürekli, dünya çapında geçerli, kişiye özel olmayan, bedelsiz, telif ücreti alınmayan, geri alınmayan bir telif hakkı lisansı vermektedir.
+    
+    3. Patent Lisansının Verilmesi. İşbu lisansın hüküm ve koşullarına bağlı olarak, çalışmayı yaptığınıza, yapmış olduğunuza, kullanmanıza, satmayı önermenize, satmanıza, içe aktarmanıza; veya bu gibi lisansların, gerektiğinde sadece bahsi geçen katkı sağlayanların katkıları tarafından veya sağladıkları katkıların çalışmayla birleşmesiyle ihlal edilen, lisansın bu katkı sağlayan tarafından lisanslanabilir patent iddalarına uygulanabildiği durumlarda çalışmayı aktarmanıza yönelik; her bir katkı sağlayıcı burada size sürekli, dünya çapında geçerli, kişiye özel olmayan, bedelsiz, telif ücreti alınmayan, geri alınmayan (bu bölümde belirtilen durumlar hariç) bir patent lisansı vermektedir. Eğer bir kuruma karşı, çalışmanın veya çalışmayla birleştirilen bir katkının patent hakkı ihlaline (doğrudan veya dolaylı olarak) yardım ettiği iddiasıyla patent davası (karşı talepte bulunmak veya karşı dava da dahil) açarsanız, bahsi geçen çalışma için işbu lisans altında size verilen her tür patent lisansı böyle bir davanın dosyalandığı tarihten itibaren sonlanır.
+    
+    4. Yeniden Dağıtım. Çalışmanın ve türemiş çalışmanın kopyalarını, değişikliklerin varlığında veya onlar olmaksızın, kaynak veya nesne biçiminde, aşağıdaki koşulları yerine getirdiğiniz takdirde her tür ortamda yeniden üretebilir veya dağıtabilirsiniz:
+    1.  Çalışmanın ve türemiş çalışmanın kopyalarının diğer alıcılarına işbu lisansın bir kopyasını vermelisiniz, ve
+    2.  Dosyaları değiştirdiğinize dair uyarıları göze görünür bir şekilde değiştirilen dosyaya iliştirmelisiniz, ve
+    3.  Dağıttığınız türemiş çalışmaların kaynak biçimlerinde her tür telif hakkı, patent, ticari marka ve çalışmanın kaynak biçiminin özellikleriyle ilgili bildirimleri, türemiş çalışmaların herhangi bir kısmıyla ilgili olmayan uyarılar hariç, korumak zorundasınız, ve
+    4.  Eğer çalışma dağıtımının bir parçası olarak “UYARI” metin dosyası içeriyorsa, dağıttığınız her türemiş çalışmanın da, türemiş çalışmaların herhangi bir kısmıyla ilgili olmayan uyarılar hariç, aşağıdaki yerlerden en az birinde böyle bir UYARI dosyasında yer alan özellik bildirimlerinin okunabilir bir kopyasını içermesi gerekmektedir: Türemiş çalışmanın bir parçası olarak dağıtılan bir UYARI dosyasının içinde; eğer türemiş çalışmanın yanında verildiyse, kaynak biçiminin veya belgelendirmenin içinde; veya bir üçüncü tarafın uyarıları normalde varsa ve her neredeyse, türemiş çalışma tarafından üretilen bir görüntünün içinde. UYARI dosyasının içerikleri sadece bilgilendirme amacında olup lisansı düzenlemez. Sonradan ek olarak koyulan uyarılar lisansı düzenlemek olarak yorumlanmadıkları sürece, çalışmada yer alan UYARI metnine ek olarak veya onun yanında bulunacak şekilde, dağıttığınız türemiş çalışmanın içine kendi uyarılarınızı ekleyebilirsiniz. Değişikliklerinize kendi telif hakkı açıklamanızı ekleyebilir; sizin kullanmanız, yeniden üretmeniz ve çalışmayı dağıtmanız işbu lisansta yer alan koşullarla uyum içindeyse, değişikliklerinizin kullanımı, yeniden üretimi veya dağıtımı, veya bu gibi bir türemiş çalışmanın tamamı için, ek veya başka lisans hüküm ve koşulları sunabilirsiniz.
+    5. Katkıların Sunumu. Açıkça başka türlü belirmediğiniz sürece, çalışmaya eklenmesi için tarafınızdan lisans verene sunulan her türlü katkı, herhangi ek hüküm ve koşul olmaksızın işbu lisansın hüküm ve koşulları altında olmalıdır. Yukarıda belirtilenlerden ayrı olarak, buradaki hususların hiçbiri, bahsi geçen katkılar hakkında lisans verenle düzenlenmiş olan başka bir lisans anlaşmasının hükümlerini yürürlükten kaldırmaz veya değiştirmez.
+    6. Ticari Markalar. İşbu lisans; ticari ünvanları, ticari markaları, hizmet markalarını, veya lisans verenin ürün isimlerini; çalışmanın kökenini tanımlamak ve UYARI dosyasının içeriğini yeniden oluşturmak gibi makul ve alışılmış kullanım için gerekli olduğu durumlar dışında kullanma hakkı vermez.
+    7. Teminatın Reddedilmesi. Yürürlükteki yasa tarafından gerekli görülmediği veya yazılı olarak onaylanmadığı sürece, lisans sahibi, MÜLKİYET, İHLAL DURUMU OLMAMASI, TİCARETE ELVERİŞLİLİK, veya ÖZEL BİR AMACA UYGUNLUK gibi teminat veya koşul olmaksızın ve bununla sınırlı kalmayarak, çalışmayı (ve katkı sağlayanların herbirini) açıkça veya üstü kapalı olarak, “HİÇBİR DEĞİŞİKLİK YAPMADAN” ESASIYLA, HİÇBİR TEMİNAT VEYA KOŞUL OLMAKSIZIN sunar. Siz sadece çalışmanın kullanıma ve yeniden dağıtıma uygunluğunu belirlemekten ve işbu lisans altında verilen izinlerin tarafınızdan kullanılmasıyla ilişkili riskleri üstlenmekten sorumlusunuz.
+    
+    8. Yükümlülüğün Sınırlandırılması. Yürürlükteki yasalarda (örneğin kasti veya fazla kusurlu yasalar) gerekmediği veya yazılı olarak belirtilmediği sürece, hiçbir durumda ve hiçbir hukuk kuramında, haksız muameleyle (ihmal dahil), sözleşmeyle veya başka yollarla, herhangi bir katkı sağlayıcı size karşı doğrudan, dolaylı, özel, tesadüfi hasarlardan veya işbu lisansın bir sonucu olarak veya çalışmanın kullanılmasındaki bir yetersizlikten ortaya çıkacak herhangi bir hasardan dolayı (itibar kaybı, işi durdurma, bilgisayar hatası veya arızası, veya ticari diğer hasar ve kayıplar dahil ve bununla sınırlı kalmaksızın), böyle bir katkı sağlayıcı bahsedilen hasarlara karşı uyarılmış olsa dahi, yükümlü değildir.
+    
+    9. Teminatın Kabulü veya Ek Yükümlülükler. Çalışmayı veya çalışmayla ilgili türemiş çalışmaları yeniden dağıtırken, desteğin, teminatın, tazminatın veya işbu lisansa uygun diğer yükümlülük zorunluluğu ve/veya hakların kabulünü önermeyi veya bunlar için ücret talep etmeyi seçebilirsiniz. Ancak, bu tür zorunlulukları kabul ederek; sadece her bir katkı sağlayıcıyı onlara karşı sizin böyle bir teminat veya ek yükümlülüğü kabul etmenizden kaynaklanan her türlü yükümlülükte onları korumak, onların zararını ödemek ve herbirinin zarar görmemesini sağlamak koşuluyla, bir diğer katkı sağlayan adına değil, sadece kendi adınıza ve kendi sorumluluğunuzla hareket edersiniz.
+    HÜKÜM VE KOŞULLARIN SONU
+    
+    EK: Apache Lisans çalışmalarınıza nasıl uygulanır?
+    
+    Apache Lisansı çalışmanıza uygulamak için, aşağıdaki şablon uyarıyı “[]” şeklinde boş bırakılan alanlara kendi  bilgilerinizi yerleştirerek çalışmanıza iliştirin. (Köşeli parantezleri silin!) Metin, dosya türüne uygun yorum sözdizimiyle eklenmelidir. Ayrıca, bir dosyanın veya sınıf ismi ile amaç tanımının aynı “basılı sayfa” üstüne üçüncü taraf arşivlerinde daha kolay tanınacak bir telif hakkı uyarısı olarak eklenmesini öneririz.
+    
+    Copyright [2020] [OpenCV Türkiye Topluluğu]
+    
+    Apache Lisansı, Sürüm 2.0 (işbu “Lisans”) ile lisanslanan
+    bu dosyayı, işbu lisansla uyumlu olan durumlar dışında kullanamazsınız.
+    Lisansın bir kopyasını        http://www.apache.org/licenses/LICENSE-2.0
+    adresinden temin edebilirsiniz.
+    Yürürlükteki bir yasada belirtilmediği veya yazılı olarak
+    beyan edilmediği sürece, işbu lisans altında dağıtılan
+    yazılım “hiçbir değişiklik yapılmadan” esasıyla dağıtılmış
+    olup, açıkça veya üstü kapalı olarak, HİÇBİR TEMİNAT VEYA
+    KOŞUL İÇERMEZ. Özel dil uygulama izinleri ve işbu lisans altındaki kısıtlamalar için lisansa bakınız.
