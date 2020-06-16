@@ -4,9 +4,9 @@
 	<br>
 	<p>
 		<p>
-			<h3>
+			<h4>
             Bu kaynak, görüntü işleme ve bilgisayarlı görü alanlarındaki Türkçe olarak hazırlanmış teknik materyalleri (kitap, blog yazısı, video, kaynak kod ve bilimsel makale) listelemek ve içerik üreticilerini desteklemek amacıyla 	<a href="https://opencvtr.org">OpenCV Türkiye Topluluğu</a> tarafından oluşturulmuştur.
-			</h3>
+			</h4>
 		</p>
 	</p>
 
@@ -18,7 +18,7 @@
 
 ## Katkıda Bulun
 Ürettiğiniz veya paylaşmal istediğiniz Türkçe içeriklerin bağlantılarını bu sayfaya ekleyebilirsiniz.
-Katkıda bulunmak için için: [katkıda bulunma](Contributing) rehberini takip edebilirsiniz.
+Katkıda bulunmak için için: [katkıda bulunma](contributing.md) rehberini takip edebilirsiniz.
 
 Soru, görüş veya öneri için issues bolümünü kullanabilirsiniz.
 
