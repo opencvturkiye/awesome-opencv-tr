@@ -1,17 +1,15 @@
 <div align="center">
 <br>
-	<img width="100" height="100" src="static/opencv-logo.png" alt="Awesome">
+	<img width="130" height="130" src="static/opencv-logo.png" alt="OpenCV Türkiye Logo">
 	<br>
 	<p>
 		<p>
-			<h4>
+			<h5>
             Bu kaynak, görüntü işleme ve bilgisayarlı görü alanlarındaki Türkçe olarak hazırlanmış teknik materyalleri (kitap, blog yazısı, video, kaynak kod ve bilimsel makale) listelemek ve içerik üreticilerini desteklemek amacıyla 	<a href="https://opencvtr.org">OpenCV Türkiye Topluluğu</a> tarafından oluşturulmuştur. Topluluğa katılmak için <a href="https://forms.gle/oPagwY1sca62GrKc6">başvuru formunu</a> kullanabilirsiniz.
-			</h4>
+			</h5>
 		</p>
 	</p>
-
 </div>
-
 <hr>
 <br>
 
@@ -102,14 +100,14 @@ Soru, görüş veya öneri için issues bolümünü kullanabilirsiniz.
 #### 📝 Blog Yazısı
 #### 📺 Video
 #### 🔬 Bilimsel Makale
-### 💻 Kaynak Kod
+#### 💻 Kaynak Kod
 
 ## Stero Görü
 
 #### 📝 Blog Yazısı
-### 📺 Video
-### 🔬 Bilimsel Makale
-### 💻 Kaynak Kod
+#### 📺 Video
+#### 🔬 Bilimsel Makale
+#### 💻 Kaynak Kod
 
 ## Karakteristik Nokta (Landmark)
 
