@@ -16,6 +16,9 @@
 <br>
 
 
+
+
+
 ## Katkıda Bulun
 Ürettiğiniz veya paylaşmal istediğiniz Türkçe içeriklerin bağlantılarını bu sayfaya ekleyebilirsiniz.
 Katkıda bulunmak için için: [katkıda bulunma](contributing.md) rehberini takip edebilirsiniz.
@@ -24,36 +27,22 @@ Soru, görüş veya öneri için issues bolümünü kullanabilirsiniz.
 
 ## İçerik
 
-* **[Türkçe Kitaplar](#turkce-kitaplar)**
-
-* **[Temel Görüntü İşlemleri](#temel-goruntu-islemleri)**
-
-* **[Kurulum Rehberleri](#kurulum-rehberleri)**
-
-* **[Filtreleme ve Gürültü Temizleme](#filtreleme-ve-goruntu-temizleme)**
-
-* **[Kenar Tespiti ve Kenar Çıkarma](#kenar-tespiti-ve-kenar-cikartma)**
-
-* **[Arka Plan Temizleme ve Arka Plan Çıkarma](#arka-plan-temizleme-ve-arka-plan-cikarma)**
-
-* **[Hareket Analizi](#hareket-analizi)**
-
-* **[Nesne Tespiti ve Nesne Tanıma](#nesne-tespiti-ve-nesne-tanima)**
-
-* **[Yüz Tanıma](#yuz-tanima)**
-
-* **[Stero Görü](#stero-goru)**
-
-* **[Karakteristik Nokta (Landmark)](#karakteristik-nokta)**
-
-* **[Optik Karakter Tanıma (OCR)](#optik-karakter-tanima)**
-  
-* **[Arttırılmış Gerçeklik](#arttirilmis-gerceklik)**
-
+- [Temel Görüntü İşlemleri](#temel-g-r-nt--i--lemleri)
+- [Kurulum Rehberleri](#kurulum-rehberleri)
+- [Filtreleme ve Gürültü Temizleme](#filtreleme-ve-g-r-lt--temizleme)
+- [Kenar Tespiti ve Kenar Çıkarma](#kenar-tespiti-ve-kenar---karma)
+- [Arka Plan Temizleme ve Arka Plan Çıkarma](#arka-plan-temizleme-ve-arka-plan---karma)
+- [Hareket Analizi](#hareket-analizi)
+- [Nesne Tespiti ve Nesne Tanıma](#nesne-tespiti-ve-nesne-tan-ma)
+- [Yüz Tanıma](#y-z-tan-ma)
+- [Stero Görü](#stero-g-r-)
+- [Karakteristik Nokta (Landmark)](#karakteristik-nokta--landmark-)
+- [Optik Karakter Tanıma (OCR)](#optik-karakter-tan-ma--ocr-)
+- [Arttırılmış Gerçeklik](#artt-r-lm---ger-eklik)
 
 <br>
 
-<h1 id="turkce-kitaplar">Türkçe Kitaplar</h1>
+## Türkçe Kitaplar
 
 * [OpenCV Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://derindelimavi.blogspot.com/2017/06/python-ile-opencv.html)
 * [OpenCV ve Python ile Eğlenceli Projeler ve Oyunlar - Ahmet Aksoy ](https://www.goodreads.com/book/show/53168506-opencv-ve-python-ile-e-lenceli-projeler-ve-oyunlar)
