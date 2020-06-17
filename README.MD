@@ -25,7 +25,7 @@ Soru, görüş veya öneri için issues bolümünü kullanabilirsiniz.
 
 ## İçerik
 
-- [Temel Görüntü İşlemleri](#temel-g-r-nt--i--lemleri)
+- [Temel Kavramlar ve Temel Görüntü İşlemleri](#temel-g-r-nt--i--lemleri)
 - [Kurulum Rehberleri](#kurulum-rehberleri)
 - [Filtreleme ve Gürültü Temizleme](#filtreleme-ve-g-r-lt--temizleme)
 - [Kenar Tespiti ve Kenar Çıkarma](#kenar-tespiti-ve-kenar---karma)
@@ -41,14 +41,17 @@ Soru, görüş veya öneri için issues bolümünü kullanabilirsiniz.
 <br>
 
 ## Türkçe Kitaplar
-
+* [Sayısal Görüntü İşleme - Rafael Gonzalez, Richard E. Woods](https://www.goodreads.com/book/show/43446620-sayisal-goruntu-isleme)
 * [OpenCV Görüntü İşleme ve Yapay Öğrenme - Birol Kuyumcu](http://derindelimavi.blogspot.com/2017/06/python-ile-opencv.html)
-* [OpenCV ve Python ile Eğlenceli Projeler ve Oyunlar - Ahmet Aksoy ](https://www.goodreads.com/book/show/53168506-opencv-ve-python-ile-e-lenceli-projeler-ve-oyunlar)
 * [OpenCV ile Görüntü İşleme - Mesut Pişkin](http://mesutpiskin.com/blog/opencv-ile-goruntu-isleme-kitabi.html)
+* [OpenCV ve Python ile Eğlenceli Projeler ve Oyunlar - Ahmet Aksoy ](https://www.goodreads.com/book/show/53168506-opencv-ve-python-ile-e-lenceli-projeler-ve-oyunlar)
 
-## Temel Görüntü İşlemleri
+## Temel Kavramlar ve Temel Görüntü İşlemleri
 
 #### 📝 Blog Yazısı
+* [OpenCV ile Temel Resim İşlemleri - Buse Yaren Tekin
+](https://medium.com/operations-management-t%C3%BCrkiye/opencv-ile-temel-resim-kamera-i%CC%87%C5%9Flemleri-14294a688965)
+* [Bilgisayarlı Görme ve Opencv’ye Giriş - Mustafa Yemural](https://www.mustafayemural.com/artic-my000016/)
 #### 📺 Video
 #### 🔬 Bilimsel Makale
 #### 💻 Kaynak Kod
@@ -98,6 +101,7 @@ Soru, görüş veya öneri için issues bolümünü kullanabilirsiniz.
 ## Yüz Tanıma
 
 #### 📝 Blog Yazısı
+* [Python ile Yüz Tanıma Uygulaması - Hakkı TOKLU](https://medium.com/@hakkitoklu/python-ile-y%C3%BCz-tan%C4%B1ma-uygulamas%C4%B1-8dc4e4bd8fcf)
 #### 📺 Video
 #### 🔬 Bilimsel Makale
 #### 💻 Kaynak Kod
