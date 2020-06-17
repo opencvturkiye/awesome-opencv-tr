@@ -15,7 +15,7 @@
   
  - Paylaşılam içerikler Türkçe olmak zorundadır.
   
- - İçerik bağlantısı "Yazı,Video Başlığı - Yazar" şeklinde olmalıdır.
+ - İçerik bağlantısı "Yazı Başlığı veya Video Başlığı - Yazar" şeklinde olmalıdır. Örneğin "OpenCV ile Derin Sinir Ağları - John Doe"
   
  - Sayfadaki içerikler kategorize edilmiştir, doğru kategoriye ekleme yaptığınızdan emin olmalısınız.
   
